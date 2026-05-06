@@ -1,5 +1,7 @@
 # Mac
 
+https://youtu.be/mba8cnGcgqE
+
 
 ## 1. https://brew.sh
 
