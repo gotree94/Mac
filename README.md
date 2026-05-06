@@ -126,7 +126,7 @@ brew install zsh
 
 3️⃣ Oh-My-Zsh 설치 스크립트
 ```
-sh -c "$(curl -fsSL https://raw.github. com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 ```
 
 4️⃣ brew로 폰트 설치
