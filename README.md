@@ -92,10 +92,12 @@ No analytics data has been sent yet (nor will any be during this install run).
 - Run brew help to get started
 - Further documentation:
     https://docs.brew.sh
-
-gotree94@gotree94ui-MacBookPro ~ % 
+```
 
 ```
+eval "$(/usr/local/bin/brew shellenv zsh)"
+```
+
 
 ## 2. https://iterm2.com
 
