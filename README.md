@@ -97,7 +97,10 @@ No analytics data has been sent yet (nor will any be during this install run).
 ```
 eval "$(/usr/local/bin/brew shellenv zsh)"
 ```
-
+```
+gotree94@gotree94ui-MacBookPro ~ % brew -v
+Homebrew 5.1.9
+```
 
 ## 2. https://iterm2.com
 
