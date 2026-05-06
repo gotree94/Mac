@@ -104,3 +104,11 @@ Homebrew 5.1.9
 
 ## 2. https://iterm2.com
 
+```
+brew install iterm2
+```
+
+
+
+
+
