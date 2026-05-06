@@ -129,6 +129,43 @@ brew install zsh
 sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 ```
 
+```
+gotree94@gotree94ui-MacBookPro ~ % sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)" 
+
+Cloning Oh My Zsh...
+remote: Enumerating objects: 1462, done.
+remote: Counting objects: 100% (1462/1462), done.
+remote: Compressing objects: 100% (1399/1399), done.
+remote: Total 1462 (delta 43), reused 1365 (delta 35), pack-reused 0 (from 0)
+Receiving objects: 100% (1462/1462), 3.31 MiB | 23.19 MiB/s, done.
+Resolving deltas: 100% (43/43), done.
+From https://github.com/ohmyzsh/ohmyzsh
+ * [new branch]      master     -> origin/master
+branch 'master' set up to track 'origin/master'.
+Switched to a new branch 'master'
+/Users/gotree94
+
+Looking for an existing zsh config...
+Using the Oh My Zsh template file and adding it to /Users/gotree94/.zshrc.
+
+         __                                     __   
+  ____  / /_     ____ ___  __  __   ____  _____/ /_  
+ / __ \/ __ \   / __ `__ \/ / / /  /_  / / ___/ __ \ 
+/ /_/ / / / /  / / / / / / /_/ /    / /_(__  ) / / / 
+\____/_/ /_/  /_/ /_/ /_/\__, /    /___/____/_/ /_/  
+                        /____/                       ....is now installed!
+
+
+Before you scream Oh My Zsh! look over the `.zshrc` file to select plugins, themes, and options.
+
+• Follow us on X: https://x.com/ohmyzsh
+• Join our Discord community: https://discord.gg/ohmyzsh
+• Get stickers, t-shirts, coffee mugs and more: https://commitgoods.com/collections/oh-my-zsh
+
+➜  ~ 
+
+```
+
 4️⃣ brew로 폰트 설치
 ```
 brew tap homebrew/cask-fonts
