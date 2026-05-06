@@ -107,6 +107,15 @@ Homebrew 5.1.9
 ```
 brew install iterm2
 ```
+```
+gotree94@gotree94ui-MacBookPro ~ % brew install iterm2
+==> Fetching downloads for: iterm2
+✔︎ Cask iterm2 (3.6.10)                                                                  Verified     45.1MB/ 45.1MB
+==> Installing Cask iterm2
+==> Moving App 'iTerm.app' to '/Applications/iTerm.app'
+🍺  iterm2 was successfully installed!
+gotree94@gotree94ui-MacBookPro ~ % 
+```
 
 
 
