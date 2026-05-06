@@ -163,10 +163,19 @@ Before you scream Oh My Zsh! look over the `.zshrc` file to select plugins, them
 • Get stickers, t-shirts, coffee mugs and more: https://commitgoods.com/collections/oh-my-zsh
 
 ➜  ~ 
-
 ```
 
+⌨️ iterm2 설정화면 진입
+⌘ + ,
+
+* profile -> session -> Status bar
+* Appearance -> 
+
+
 4️⃣ brew로 폰트 설치
+
+https://github.com/madmalik/homebrew-cask-fonts
+
 ```
 brew tap homebrew/cask-fonts
 brew install font-fira-code
