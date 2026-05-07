@@ -171,7 +171,6 @@ Before you scream Oh My Zsh! look over the `.zshrc` file to select plugins, them
 * profile -> session -> Status bar
 * Appearance -> 
 
-
 4️⃣ brew로 폰트 설치
 
 https://github.com/madmalik/homebrew-cask-fonts
@@ -179,6 +178,25 @@ https://github.com/madmalik/homebrew-cask-fonts
 ```
 brew tap homebrew/cask-fonts
 brew install font-fira-code
+```
+
+```
+Last login: Thu May  7 08:53:21 on ttys001
+➜  ~ brew tap homebrew/cask-fonts
+Error: homebrew/cask-fonts was deprecated. This tap is now empty and all its contents were either deleted or migrated.
+➜  ~ brew install font-fira-code
+==> Fetching downloads for: font-fira-code
+✔︎ Cask font-fira-code (6.2)                          Verified      2.5MB/  2.5MB
+==> Installing Cask font-fira-code
+==> Moving Font 'FiraCode-Bold.ttf' to '/Users/gotree94/Library/Fonts/FiraCode-B
+==> Moving Font 'FiraCode-Light.ttf' to '/Users/gotree94/Library/Fonts/FiraCode-
+==> Moving Font 'FiraCode-Medium.ttf' to '/Users/gotree94/Library/Fonts/FiraCode
+==> Moving Font 'FiraCode-Regular.ttf' to '/Users/gotree94/Library/Fonts/FiraCod
+==> Moving Font 'FiraCode-Retina.ttf' to '/Users/gotree94/Library/Fonts/FiraCode
+==> Moving Font 'FiraCode-SemiBold.ttf' to '/Users/gotree94/Library/Fonts/FiraCo
+==> Moving Font 'FiraCode-VF.ttf' to '/Users/gotree94/Library/Fonts/FiraCode-VF.
+🍺  font-fira-code was successfully installed!
+➜  ~
 ```
 
 5️⃣ zsh 설정파일 열기
