@@ -590,6 +590,8 @@ ESC + :wq
 ⌨️ iterm2 상하/좌우 분할
 ⌘ + d / ⌘ + ⇧ + d
 
+## brew install yarn
+
 
 
 
