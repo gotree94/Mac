@@ -590,6 +590,8 @@ ESC + :wq
 ⌨️ iterm2 상하/좌우 분할
 ⌘ + d / ⌘ + ⇧ + d
 
+---
+
 ## brew install yarn
 ```
 brew install yarn
@@ -598,5 +600,13 @@ brew install yarn
 ```
 brew install node
 ```
+
+```
+yarn global add n8n
+```
+
+
+
+
 
 
