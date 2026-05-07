@@ -605,6 +605,9 @@ brew install node
 yarn global add n8n
 ```
 
+## n8n start
+
+
 
 
 
