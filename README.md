@@ -591,7 +591,12 @@ ESC + :wq
 ⌘ + d / ⌘ + ⇧ + d
 
 ## brew install yarn
+```
+brew install yarn
+```
 
-
+```
+brew install node
+```
 
 
